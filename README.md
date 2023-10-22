@@ -12,6 +12,8 @@
 
 ⚫ Carrera - Ingenieria De Sistemas.
 
+⚫ Semestre - 3
+
 # Hobbies
 
 ⚫ VideoJugeos
