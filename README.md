@@ -1,13 +1,22 @@
+# Informacion Personal: 
+
 ⚫ Thomas Perez
 
 ⚫ Pais - Colombia 🇨🇴
 
 ⚫ Edad - 19
 
+# Informacion Academica:
+
 ⚫ Estudiante - Universidad Industrial De Santander.
 
 ⚫ Carrera - Ingenieria De Sistemas.
 
+# Hobbies
+
+⚫ VideoJugeos
+
+⚫ Peliculas
 
 
 <!--
