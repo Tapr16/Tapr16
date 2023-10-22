@@ -2,7 +2,7 @@
 
 ⚫ Thomas Perez
 
-⚫ Pais - Colombia 🇨🇴
+⚫ Pais - Colombia
 
 ⚫ Edad - 19
 
