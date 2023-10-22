@@ -1,9 +1,9 @@
 ### Hola a Todos 👋
-☑ Thomas Perez
-☑ Pais - Colombia 🇨🇴
-☑ Edad - 19
-☑ Estudiante - Universidad Industrial De Santander.
-☑ Carrera - Ingenieria De Sistemas.
+### ☑ Thomas Perez
+### ☑ Pais - Colombia 🇨🇴
+### ☑ Edad - 19
+### ☑ Estudiante - Universidad Industrial De Santander.
+### ☑ Carrera - Ingenieria De Sistemas.
 
 
 
