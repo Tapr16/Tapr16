@@ -12,7 +12,7 @@
 
 ⚫ Carrera - Ingenieria De Sistemas.
 
-⚫ Semestre - 5
+⚫ Semestre - 6
 
 # Hobbies
 
