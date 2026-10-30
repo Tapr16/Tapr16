@@ -1,37 +1,29 @@
-# Informacion Personal: 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=500&lines=Thomas+Perez" alt="Thomas Perez">
+</p>
 
-⚫ Thomas Perez
+Estudiante de **Ingeniería de Sistemas** (9.º semestre) en la **Universidad Industrial de Santander** 🇨🇴.
+Me interesan el desarrollo backend, la arquitectura de software y la infraestructura (contenedores, mensajería, service mesh).
 
-⚫ Pais - Colombia
+## 🛠️ Tecnologías
 
-⚫ Edad - 22
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,dart,php,fastapi,flutter,postgres,mysql,docker,kubernetes,rabbitmq,git&perline=12" alt="Tecnologías">
+</p>
 
-# Informacion Academica:
+## 🐍 Contribuciones
 
-⚫ Estudiante - Universidad Industrial De Santander.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tapr16/Tapr16/output/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/Tapr16/Tapr16/output/github-snake.svg" alt="Serpiente comiéndose las contribuciones">
+  </picture>
+</p>
 
-⚫ Carrera - Ingenieria De Sistemas.
+## 🎮 Fuera del código
 
-⚫ Semestre - 9
+Videojuegos (CS2, League of Legends, Valorant) y fútbol ⚽
 
-# Hobbies
-
-⚫ VideoJugeos
-
-⚫ Progamación
-
-
-<!--
-**EpicModoDios/EpicModoDios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tapr16&label=Visitas+al+perfil&color=0e75b6&style=flat" alt="Visitas al perfil">
+</p>
