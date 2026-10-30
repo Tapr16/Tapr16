@@ -7,9 +7,26 @@ Me interesan el desarrollo backend, la arquitectura de software y la infraestruc
 
 ## 🛠️ Tecnologías
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,dart,php,fastapi,flutter,postgres,mysql,docker,kubernetes,rabbitmq,git&perline=12" alt="Tecnologías">
-</p>
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python"><br><sub><b>Python</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"><br><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart"><br><sub><b>Dart</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP"><br><sub><b>PHP</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI"><br><sub><b>FastAPI</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter"><br><sub><b>Flutter</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"><br><sub><b>PostgreSQL</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"><br><sub><b>MySQL</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"><br><sub><b>Docker</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes"><br><sub><b>Kubernetes</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="RabbitMQ"><br><sub><b>RabbitMQ</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"><br><sub><b>Git</b></sub></td>
+  </tr>
+</table>
+</div>
 
 ## 🐍 Contribuciones
 
