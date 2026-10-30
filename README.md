@@ -41,6 +41,3 @@ Me interesan el desarrollo backend, la arquitectura de software y la infraestruc
 
 Videojuegos (CS2, League of Legends, Valorant) y fútbol ⚽
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tapr16&label=Visitas+al+perfil&color=0e75b6&style=flat" alt="Visitas al perfil">
-</p>
