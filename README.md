@@ -3,7 +3,7 @@
 </p>
 
 Estudiante de **Ingeniería de Sistemas** (9.º semestre) en la **Universidad Industrial de Santander** 🇨🇴.
-Me interesan el desarrollo backend, la arquitectura de software y la infraestructura (contenedores, mensajería, service mesh).
+Me interesan el desarrollo backend, la arquitectura de software y la infraestructura.
 
 ## 🛠️ Tecnologías
 
